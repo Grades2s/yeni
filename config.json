@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["716389461210038382"],
+        "ACTIVITY_TEXT": " Voice System",
+        "GUILD_ID": "1057289431213686784",
+        "VOICE_CHANNEL": "1168682731119583292",
+        "MIN_STAFF_ROLE": "1157056723085951147"
+    },
+    "FILES": {
+        "WELCOME": "file/1031.mp3",
+        "STAFF": "file/1031.mp3"
+    },
+    "TOKEN": "MTExMjQyNjY1MDQ5MjIxNTQyOA.Gz5y2i.FUS9DPI3UaPy96_ejyNqXZ3NlnzNJT53Z2BbsY"
+}
